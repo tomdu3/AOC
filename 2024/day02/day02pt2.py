@@ -7,7 +7,7 @@
 
 # in_put = in_put.split('\n')
 
-with open('in_put.txt') as f:
+with open('input2.txt') as f:
     in_put = f.readlines()
 
 def check_report(report: list, second_check=False):
