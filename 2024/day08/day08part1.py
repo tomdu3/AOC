@@ -12,7 +12,7 @@ in_put = """............
 ............
 ............"""
 
-# read input from the file
+# Read input from the file
 with open('input08.txt') as f:
     in_put = f.read()
 in_put = [line for line in in_put.split('\n') if line]
