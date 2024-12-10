@@ -147,3 +147,11 @@ Considering its trailheads in reading order, they have ratings of `20`, `24`, `1
 You're not sure how, but the reindeer seems to have crafted some tiny flags out of toothpicks and bits of paper and is using them to mark trailheads on your topographic map. _What is the sum of the ratings of all trailheads?_
 
 Your puzzle answer was `1942`.
+
+## Useful details used in the solution
+
+### Breadth-First Search Algoritm
+
+[Breadth-First Search in Simplilearn Data Structure Tutorial](https://www.simplilearn.com/tutorials/data-structure-tutorial/bfs-algorithm#:~:text=Breadth%2DFirst%20Search%20Algorithm%20or,the%20next%2Dlevel%20neighbor%20nodes.)
+[Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+[Breadth-First Search in 4 minutes](https://youtu.be/HZ5YTanv5QE)
