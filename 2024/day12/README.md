@@ -159,3 +159,9 @@ Adding these together produces its new total price of `_1206_`.
 _What is the new total price of fencing all regions on your map?_
 
 Your puzzle answer was `908042`.
+
+## Solution guide
+
+I need to add that for the second part I integrated the solution of Iris a.k.a Hyperneutrino:
+https://youtu.be/KXwKGWSQvS0
+
