@@ -17,5 +17,6 @@ touch "$DIRECTORY/README.md"
 touch "$DIRECTORY/day${DAY_NUMBER}part1.py"
 touch "$DIRECTORY/day${DAY_NUMBER}part2.py"
 touch "$DIRECTORY/input.txt"
+touch "$DIRECTORY/test_input.txt"
 
 echo "Directory and files created successfully in $DIRECTORY"
